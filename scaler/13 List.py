@@ -1,25 +1,46 @@
-list = [1,2,3,4,5,6];
+# list = [1,2,3,4,5,6];
 
-print(type(list))
+# print(type(list))
 
-# accessing
+# # accessing
 
-print(list[0])
-print(list[-len(list)])
-print(list[-1])
+# print(list[0])
+# print(list[-len(list)])
+# print(list[-1])
 
-# mutability
-print("id = ", id(list))
-list[2] = 10
-print("id = ", id(list))
+# # mutability
+# print("id = ", id(list))
+# list[2] = 10
+# print("id = ", id(list))
+# print(list)
+
+# # iterable
+
+# for i in list:
+#     print(i, end=", ")
+
+# print("\n")
+
+# # slicing
+# print(list[0:3])
+
+
+## List methods
+list = [100, 200, 100, 150, 250, 300, 100];
+
+print(list.count(100))
+print(list.index(250))  # if object is not in the list then it will throw an error
+
+print(list.pop())  # removes the last element
 print(list)
 
-# iterable
+list.remove(100) # removes the first occurrence of the element
+print(list)
 
-for i in list:
-    print(i, end=", ")
+# list.remove(20); # if the element is not in the list then it will throw an error
 
-print("\n")
+list.sort();
+print(list)
 
-# slicing
-print(list[0:3])
+list.insert(2, 500) # inserts 500 at index 2
+print(list)
