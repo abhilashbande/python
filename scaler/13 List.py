@@ -44,3 +44,15 @@ print(list)
 
 list.insert(2, 500) # inserts 500 at index 2
 print(list)
+
+list.append(400) # adds 400 at the end of the list
+print(list)
+
+l1 = [111,222,333];
+list.append(l1) # adds the list l1 as a single element at the end of the list
+print(list)
+
+l1.extend(list);
+print(l1)
+
+
