@@ -1,0 +1,33 @@
+Python List Assignment (30 Questions)
+
+1.  Create a list of 10 integers and print it.
+2.  Find the length of a list using len().
+3.  Access the first, last, and middle elements.
+4.  Demonstrate positive and negative indexing.
+5.  Slice the first five elements.
+6.  Append a new element using append().
+7.  Add multiple elements using extend().
+8.  Insert an element at index 3 using insert().
+9.  Remove the first occurrence of a value using remove().
+10. Remove the last element using pop().
+11. Remove an element by index using pop(index).
+12. Clear all elements using clear().
+13. Find the index of a given element using index().
+14. Count occurrences of an element using count().
+15. Sort a numeric list in ascending order using sort().
+16. Sort the same list in descending order.
+17. Reverse a list using reverse().
+18. Create a shallow copy using copy().
+19. Concatenate two lists using +.
+20. Repeat a list using *.
+21. Check membership using in and not in.
+22. Find the maximum, minimum, and sum of a numeric list.
+23. Use sorted() without changing the original list.
+24. Create a list of squares using list comprehension.
+25. Create a list of even numbers from 1–100.
+26. Remove duplicates from a list.
+27. Merge two lists and sort them.
+28. Find the second largest element in a list.
+29. Reverse a list without using reverse().
+30. Create a menu-driven program demonstrating append, insert, remove,
+    pop, sort, reverse, and display operations.
