@@ -1,0 +1,34 @@
+Assignment: Python Tuple, Range and List Comprehension
+
+1.  Create a tuple of 5 integers and print it.
+2.  Create a tuple containing different data types.
+3.  Create a single-element tuple and print its type.
+4.  Access the first, last and middle element of a tuple.
+5.  Slice a tuple to print the first three elements.
+6.  Reverse a tuple using slicing.
+7.  Count occurrences of an element using count().
+8.  Find the index of an element using index().
+9.  Concatenate two tuples.
+10. Repeat a tuple three times.
+11. Perform tuple packing and unpacking.
+12. Create a nested tuple and access an inner element.
+13. Generate numbers from 1 to 20 using range().
+14. Print even numbers using range().
+15. Print odd numbers using range().
+16. Print numbers in reverse using a negative step.
+17. Convert a range object into a list.
+18. Print the multiplication table of 7 using range().
+19. Create a list of squares using list comprehension.
+20. Create a list of cubes using list comprehension.
+21. Create a list of even numbers from 1–50 using list comprehension.
+22. Create a list of odd numbers from 1–50 using list comprehension.
+23. Convert a list of names to uppercase using list comprehension.
+24. Find the length of each word using list comprehension.
+25. Create a list of only positive numbers from a mixed list.
+26. Replace even numbers with “Even” and odd numbers with “Odd” using
+    if-else list comprehension.
+27. Flatten a nested list using list comprehension.
+28. Create a list of ASCII values of characters in a string.
+29. Create a list of numbers divisible by both 3 and 5 from 1–100.
+30. Explain the difference between Tuple, Range and List Comprehension
+    with examples.

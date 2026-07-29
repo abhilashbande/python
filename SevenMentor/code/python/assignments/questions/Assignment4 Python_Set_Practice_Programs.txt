@@ -1,0 +1,26 @@
+Python Set Practice Programs (20 Questions)
+
+1.  Create a set and print all elements.
+2.  Create a set from a list containing duplicate values and print the
+    unique elements.
+3.  Add a new element to a set using add().
+4.  Add multiple elements using update().
+5.  Remove an element using remove() and observe the error when the
+    element does not exist.
+6.  Remove an element safely using discard().
+7.  Remove a random element using pop().
+8.  Clear all elements from a set using clear().
+9.  Copy one set into another using copy().
+10. Find the union of two sets.
+11. Find the intersection of two sets.
+12. Find the difference between two sets.
+13. Find the symmetric difference between two sets.
+14. Check whether one set is a subset of another.
+15. Check whether one set is a superset of another.
+16. Check whether two sets are disjoint.
+17. Count the number of unique words in a sentence using a set.
+18. Create a set of squares (1–10) using set comprehension.
+19. Remove duplicate names from a list while preserving only unique
+    values (using a set).
+20. Create a frozenset and perform union() and intersection(). Try
+    calling add() and explain the error.
