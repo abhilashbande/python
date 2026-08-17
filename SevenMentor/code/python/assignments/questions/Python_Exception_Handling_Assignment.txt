@@ -1,0 +1,17 @@
+Python Exception Handling Assignment
+
+1.  What is the difference between a syntax error and a runtime
+    exception?
+2.  Explain the purpose of try, except, else, and finally with examples.
+3.  Write a program to handle ZeroDivisionError.
+4.  Write a program to handle ValueError when converting input to int.
+5.  Write a program to handle IndexError using a list.
+6.  Write a program to handle FileNotFoundError.
+7.  Write a program that handles both ValueError and ZeroDivisionError.
+8.  Explain except Exception as e.
+9.  Write a program using the raise keyword.
+10. Create and use a custom exception class.
+
+Programming Tasks: - ATM withdrawal with exception handling. - Student
+marks input validation. - Calculator using try-except. - File reading
+with finally.
