@@ -1,0 +1,37 @@
+ASSIGNMENT: PYTHON OOP — INHERITANCE
+
+Part A: Theory Questions
+
+1. What is inheritance in Python? Explain its purpose and advantages with a real-time example.
+
+2. Explain the difference between Parent Class, Child Class, Base Class, and Derived Class.
+
+3. Explain the following types of inheritance with suitable diagrams and real-time examples:
+   - Single Inheritance
+   - Multiple Inheritance
+   - Multilevel Inheritance
+   - Hierarchical Inheritance
+   - Hybrid Inheritance
+
+4. What is method overriding? Explain with a Python example.
+
+5. What is the use of the super() function in inheritance? Explain with an example.
+
+
+Part B: Practical / Coding Questions
+
+6. Create an Employee parent class containing name, salary, and a display_details() method. Create a Manager child class that inherits from Employee and adds a department attribute.
+
+7. Create a Vehicle class with start() and stop() methods. Create Car and Bike classes that inherit from Vehicle and add their own methods.
+
+8. Demonstrate multiple inheritance using Father and Mother classes and a Child class. Add at least two methods to each parent class and access all methods using the child object.
+
+9. Create a multilevel inheritance example using:
+   Person -> Employee -> Manager
+
+   Each class should have at least one unique method. Create a Manager object and access methods from all three classes.
+
+10. Create a hierarchical inheritance example using:
+    Employee -> Developer, Manager, Accountant
+
+    Add appropriate methods to each child class and demonstrate that all child classes can access the common methods of Employee.
